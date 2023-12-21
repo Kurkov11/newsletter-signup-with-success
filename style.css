@@ -84,6 +84,8 @@ html{
 #wrapper{
     height: 100vh;
     padding: 2rem;
+    display: flex;
+    flex-direction: column;
 }
 #thx-msg{
     font-family: 'roboto-bold';
