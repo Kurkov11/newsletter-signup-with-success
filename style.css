@@ -89,3 +89,11 @@ html{
 #info span{
     font-family: 'roboto-bold';
 }
+#dismiss-btn{
+    width: 100%;
+    background-color: hsl(234, 29%, 20%);
+    color: white;
+    text-align: center;
+    padding: 1rem 2rem;
+    border-radius: 0.2rem;
+}
