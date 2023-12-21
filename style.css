@@ -21,6 +21,10 @@ html{
     font-size: 16px;
     color: hsl(235, 18%, 26%);
 }
+#ul{
+    font-size: 16px;
+    color: hsl(234, 29%, 20%);
+}
 #top-img-mobile{
     width: 100vw;
 }
