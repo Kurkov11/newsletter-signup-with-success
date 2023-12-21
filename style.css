@@ -32,6 +32,9 @@ html{
 #list li:not(:last-child){
     margin-bottom: 1rem;
 }
+#list .icon-list{
+    align-self: flex-start;
+}
 #top-img-mobile{
     width: 100vw;
 }
