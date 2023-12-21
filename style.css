@@ -68,6 +68,7 @@ html{
     cursor: pointer;
 }
 #subscribe-btn{
+    transition-duration: 0.1s;
     background-color: hsl(234, 29%, 20%);
     color: white;
     padding: 1rem 2rem;
@@ -75,6 +76,7 @@ html{
     border-radius: 0.5rem;
 }
 #subscribe-btn:hover{
+    transition-duration: 0.1s;
     background-color: hsl(4, 100%, 67%);
     box-shadow: hsla(4, 100%, 67%) 0px 5px 15px;
     cursor: pointer;
@@ -111,8 +113,10 @@ html{
     text-align: center;
     padding: 1rem 2rem;
     border-radius: 0.5rem;
+    transition-duration: 0.1s;
 }
 #dismiss-btn:hover{
+    transition-duration: 0.1s;
     background-color: hsl(4, 100%, 67%);
     box-shadow: hsla(4, 100%, 67%) 0px 5px 15px;
     cursor: pointer;
