@@ -54,6 +54,9 @@ html{
     border-radius: 0.5rem;
     margin-bottom: 1.5rem;
 }
+#email-input:hover{
+    cursor: pointer;
+}
 #subscribe-btn{
     background-color: hsl(234, 29%, 20%);
     color: white;
