@@ -17,7 +17,7 @@ html{
 }
 #cta{
     font-family: 'roboto-bold';
-    font-size: 40px;
+    font-size: 35px;
     color: hsl(234, 29%, 20%);
 }
 #sub{
@@ -47,5 +47,12 @@ html{
     padding: 1rem;
     width: 100%;
     border: 1px hsl(231, 7%, 60%) solid;
+    border-radius: 0.5rem;
+}
+#subscribe-btn{
+    background-color: hsl(234, 29%, 20%);
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
     border-radius: 0.5rem;
 }
