@@ -19,14 +19,17 @@ html{
     font-family: 'roboto-bold';
     font-size: 35px;
     color: hsl(234, 29%, 20%);
+    margin-bottom: 1rem;
 }
 #sub{
     font-size: 16px;
     color: hsl(235, 18%, 26%);
+    margin-bottom: 2rem;
 }
-#ul{
+#list{
     font-size: 16px;
     color: hsl(234, 29%, 20%);
+    margin-bottom: 3rem;
 }
 #list li{
     display: flex;
@@ -42,12 +45,14 @@ html{
 #email-text{
     font-size: 14px;
     font-family: 'roboto-bold';
+    margin-bottom: 0.5rem;
 }
 #email-input{
     padding: 1rem;
     width: 100%;
     border: 1px hsl(231, 7%, 60%) solid;
     border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
 }
 #subscribe-btn{
     background-color: hsl(234, 29%, 20%);
