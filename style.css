@@ -9,6 +9,9 @@
 html{
     font-family: 'roboto-regular';
 }
+#top-img-mobile{
+    width: 100vw;
+}
 #content{
     padding: 2rem 1rem;
 }
@@ -36,6 +39,7 @@ html{
     align-self: flex-start;
     margin-right: 1rem;
 }
-#top-img-mobile{
-    width: 100vw;
+#email-text{
+    font-size: 14px;
+    font-family: 'roboto-bold';
 }
