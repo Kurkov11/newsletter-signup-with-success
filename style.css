@@ -136,6 +136,7 @@ html{
         display: flex;
         flex-direction: row-reverse;
         background-color: white;
+        border-radius: 2rem;
     }
     #top-img-desktop{
         display: block;
