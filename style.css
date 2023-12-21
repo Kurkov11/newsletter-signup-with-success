@@ -129,9 +129,13 @@ html{
 }
 
 @media only screen and (width >= 800px){
+    body{
+        background-color: hsl(234, 29%, 20%);
+    }
     #wrapper{
         display: flex;
         flex-direction: row-reverse;
+        background-color: white;
     }
     #top-img-desktop{
         display: block;
