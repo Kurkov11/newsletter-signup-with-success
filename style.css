@@ -12,6 +12,10 @@ html{
 #content{
     padding: 2rem 1rem;
 }
+#cta{
+    font-family: 'roboto-bold';
+    font-size: 40px;
+}
 #top-img-mobile{
     width: 100vw;
 }
