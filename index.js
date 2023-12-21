@@ -9,5 +9,6 @@ document.getElementById('subscribe-btn').onclick = function(){
         document.getElementById('email-input').style.backgroundColor = 'hsl(4, 100%, 97%)'
     }else{
         window.location = "success.html";
+        localStorage.setItem('email-value', document.getElementById('email-input').value);
     }
 }
