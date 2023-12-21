@@ -124,3 +124,10 @@ html{
 #info{
     line-height: 1.5rem;
 }
+
+@media only screen and (width >= 800px){
+    #wrapper{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+}
