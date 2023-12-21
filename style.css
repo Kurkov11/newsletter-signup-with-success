@@ -88,6 +88,9 @@ html{
     flex-direction: column;
     justify-content: flex-end;
 }
+#success-icon{
+    width: 70px;
+}
 #thx-msg{
     font-family: 'roboto-bold';
     font-size: 35px;
