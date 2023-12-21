@@ -43,3 +43,9 @@ html{
     font-size: 14px;
     font-family: 'roboto-bold';
 }
+#email-input{
+    padding: 1rem;
+    width: 100%;
+    border: 1px hsl(231, 7%, 60%) solid;
+    border-radius: 0.5rem;
+}
