@@ -112,3 +112,6 @@ html{
     padding: 1rem 2rem;
     border-radius: 0.5rem;
 }
+#info{
+    line-height: 1.5rem;
+}
