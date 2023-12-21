@@ -155,5 +155,6 @@ html{
         display: flex;
         flex-direction: column;
         justify-content: center;
+        padding: 7rem 5rem;
     }
 }
