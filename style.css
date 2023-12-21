@@ -9,6 +9,9 @@
 html{
     font-family: 'roboto-regular';
 }
+#content{
+    padding: 2rem 1rem;
+}
 #top-img-mobile{
     width: 100vw;
 }
