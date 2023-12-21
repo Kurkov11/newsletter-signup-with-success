@@ -139,4 +139,8 @@ html{
     #top-img-mobile{
         display: none;
     }
+    #desktop-wrapper{
+        height: 100vh;
+        
+    }
 }
