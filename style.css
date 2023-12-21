@@ -88,6 +88,9 @@ html{
     flex-direction: column;
     justify-content: space-between;
 }
+#success-content{
+    margin-top: 5rem;
+}
 #success-icon{
     width: 70px;
 }
