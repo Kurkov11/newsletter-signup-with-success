@@ -29,6 +29,9 @@ html{
     display: flex;
     align-items: center;
 }
+#list li:not(:last-child){
+    margin-bottom: 1rem;
+}
 #top-img-mobile{
     width: 100vw;
 }
