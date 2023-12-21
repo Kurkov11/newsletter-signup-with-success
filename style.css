@@ -81,7 +81,7 @@ html{
 }
 
 /* success.html specific */
-#wrapper{
+#success-wrapper{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
