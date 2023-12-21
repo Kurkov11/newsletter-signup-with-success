@@ -93,11 +93,13 @@ html{
 }
 #success-icon{
     width: 70px;
+    margin-bottom: 1rem;
 }
 #thx-msg{
     font-family: 'roboto-bold';
     font-size: 35px;
     color: hsl(234, 29%, 20%);
+    margin-bottom: 1rem;
 }
 #info span{
     font-family: 'roboto-bold';
