@@ -15,6 +15,7 @@ html{
 #cta{
     font-family: 'roboto-bold';
     font-size: 40px;
+    color: hsl(234, 29%, 20%);
 }
 #top-img-mobile{
     width: 100vw;
