@@ -81,6 +81,10 @@ html{
 }
 
 /* success.html specific */
+#wrapper{
+    height: 100vh;
+    padding: 2rem;
+}
 #thx-msg{
     font-family: 'roboto-bold';
     font-size: 35px;
