@@ -86,3 +86,6 @@ html{
     font-size: 35px;
     color: hsl(234, 29%, 20%);
 }
+#info span{
+    font-family: 'roboto-bold';
+}
