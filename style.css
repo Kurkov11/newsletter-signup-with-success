@@ -25,6 +25,10 @@ html{
     font-size: 16px;
     color: hsl(234, 29%, 20%);
 }
+#list li{
+    display: flex;
+    align-items: center;
+}
 #top-img-mobile{
     width: 100vw;
 }
