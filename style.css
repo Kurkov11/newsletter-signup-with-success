@@ -112,6 +112,11 @@ html{
     padding: 1rem 2rem;
     border-radius: 0.5rem;
 }
+#dismiss-btn:hover{
+    background-color: hsl(4, 100%, 67%);
+    box-shadow: hsla(4, 100%, 67%) 0px 5px 15px;
+    cursor: pointer;
+}
 #info{
     line-height: 1.5rem;
 }
