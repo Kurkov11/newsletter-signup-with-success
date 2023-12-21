@@ -140,6 +140,7 @@ html{
     }
     #top-img-desktop{
         display: block;
+        margin: 1rem;
     }
     #top-img-mobile{
         display: none;
