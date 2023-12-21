@@ -12,6 +12,9 @@ html{
 #top-img-mobile{
     width: 100vw;
 }
+#top-img-desktop{
+    display: none;
+}
 #content{
     padding: 2rem 1rem;
 }
@@ -129,5 +132,11 @@ html{
     #wrapper{
         display: flex;
         flex-direction: row-reverse;
+    }
+    #top-img-desktop{
+        display: block;
+    }
+    #top-img-mobile{
+        display: none;
     }
 }
