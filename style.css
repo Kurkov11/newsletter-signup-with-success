@@ -47,6 +47,10 @@ html{
     font-family: 'roboto-bold';
     margin-bottom: 0.5rem;
 }
+#email-info{
+    display: flex;
+    justify-content: space-between;
+}
 #email-input{
     padding: 1rem;
     width: 100%;
