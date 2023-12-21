@@ -79,3 +79,10 @@ html{
     box-shadow: hsla(4, 100%, 67%) 0px 5px 15px;
     cursor: pointer;
 }
+
+/* success.html specific */
+#thx-msg{
+    font-family: 'roboto-bold';
+    font-size: 35px;
+    color: hsl(234, 29%, 20%);
+}
