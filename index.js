@@ -8,6 +8,6 @@ document.getElementById('subscribe-btn').onclick = function(){
         document.getElementById('email-input').style.color = 'hsl(4, 100%, 67%)';
         document.getElementById('email-input').style.backgroundColor = 'hsl(4, 100%, 97%)'
     }else{
-
+        window.location = "success.html";
     }
 }
