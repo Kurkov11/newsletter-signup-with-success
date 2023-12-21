@@ -17,6 +17,10 @@ html{
     font-size: 40px;
     color: hsl(234, 29%, 20%);
 }
+#sub{
+    font-size: 16px;
+    color: hsl(235, 18%, 26%);
+}
 #top-img-mobile{
     width: 100vw;
 }
