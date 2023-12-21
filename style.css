@@ -47,6 +47,12 @@ html{
     font-family: 'roboto-bold';
     margin-bottom: 0.5rem;
 }
+#wrong-email-text{
+    font-size: 14px;
+    font-family: 'roboto-bold';
+    color: hsl(4, 100%, 67%);
+    display: none;
+}
 #email-info{
     display: flex;
     justify-content: space-between;
