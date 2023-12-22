@@ -179,6 +179,7 @@ html{
     }
     #success-card{
         width: 366px;
+        height: fit-content;
         padding: 2rem 3rem;
         background-color: white;
         border-radius: 1rem;
