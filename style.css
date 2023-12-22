@@ -145,7 +145,7 @@ html{
     }
 }
 @media only screen and (width >= 860px){
-    body{
+    #desktop-wrapper{
         background-color: hsl(234, 29%, 20%);
     }
     #wrapper{
