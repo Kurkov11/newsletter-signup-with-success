@@ -175,6 +175,7 @@ html{
         width: 366px;
         padding: 2rem 3rem;
         background-color: white;
+        border-radius: 1rem;
     }
     #success-content{
         margin: 0;
