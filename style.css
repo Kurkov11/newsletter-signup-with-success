@@ -92,7 +92,7 @@ html{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 2rem;
+    padding: 2rem;
 }
 #success-content{
     margin-top: 5rem;
