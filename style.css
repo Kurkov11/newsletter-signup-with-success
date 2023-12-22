@@ -94,6 +94,12 @@ html{
     height: 100vh;
     padding: 2rem;
 }
+#success-card{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 #success-content{
     margin-top: 5rem;
 }
