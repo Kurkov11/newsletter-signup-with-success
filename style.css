@@ -127,7 +127,23 @@ html{
 #info{
     line-height: 1.5rem;
 }
-
+@media only screen and (width >= 600px){
+    #cta{
+        font-size: 50px;
+    }
+    #sub{
+        font-size: 19px;
+    }
+    #list{
+        font-size: 19px;
+    }
+    #email-text{
+        font-size: 17px;
+    }
+    #subscribe-btn{
+        font-size: 19px;
+    }
+}
 @media only screen and (width >= 750px){
     body{
         background-color: hsl(234, 29%, 20%);
