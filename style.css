@@ -158,3 +158,14 @@ html{
         padding: 7rem 5rem;
     }
 }
+@media only screen and (width >= 1100px){
+    #cta{
+        font-size: 60px;
+    }
+    #sub{
+        font-size: 18px;
+    }
+    #list{
+        font-size: 18px;
+    }
+}
