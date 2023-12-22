@@ -149,6 +149,9 @@ html{
     #desktop-wrapper{
         background-color: hsl(234, 29%, 20%);
     }
+    #success-wrapper{
+        background-color: hsl(234, 29%, 20%);;
+    }
     #wrapper{
         display: flex;
         flex-direction: row-reverse;
