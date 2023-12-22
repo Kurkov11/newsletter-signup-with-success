@@ -168,6 +168,9 @@ html{
         justify-content: center;
         align-items: center;
     }
+    #success-card{
+        width: 366px;
+    }
     #success-content{
         margin: 0;
         margin-bottom: 5rem;
