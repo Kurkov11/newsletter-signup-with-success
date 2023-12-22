@@ -174,6 +174,7 @@ html{
     #success-card{
         width: 366px;
         padding: 2rem 3rem;
+        background-color: white;
     }
     #success-content{
         margin: 0;
